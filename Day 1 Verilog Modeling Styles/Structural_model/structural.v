@@ -3,7 +3,7 @@
 // Company: VIT
 // Engineer: Rohan Boge
 
-module behavioural(a,b,and_g,or_g,not_a_g,xor_g,xnor_g,nand_g);
+module structural_level(a,b,and_g,or_g,not_a_g,xor_g,xnor_g,nand_g);
 	input a,b;
 	output and_g,or_g,not_a_g,xor_g,xnor_g,nand_g;
 	
