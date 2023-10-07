@@ -5,7 +5,7 @@
 
 module behavioural(a,b,and_g,or_g,not_a_g,xor_g,xnor_g,nand_g);
 	input a,b;
-	output reg and_g,or_g,not_a_g,xor_g,xnor_g,nand_g;
+	output and_g,or_g,not_a_g,xor_g,xnor_g,nand_g;
 	
 		assign and_g = a&b;
 		assign or_g  = a|b;
