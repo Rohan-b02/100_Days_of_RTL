@@ -38,7 +38,7 @@ module behav_test_v;
 	wire nand_g;
 
 	// Instantiate the Unit Under Test (UUT)
-	behavioural uut (
+	structural_level uut (
 		.a(a), 
 		.b(b), 
 		.and_g(and_g), 
@@ -55,7 +55,8 @@ module behav_test_v;
             a= 0; b= 0;
         #10 a= 0; b= 1;
         #10 a= 1; b= 0;
-        #10 a= 1; b= 1;		#40 $finish;
+        #10 a= 1; b= 1;
+		#40 $finish;
         
 	end
       
