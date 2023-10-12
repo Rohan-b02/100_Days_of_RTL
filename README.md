@@ -11,5 +11,9 @@ Day 4 Full Adder using Half adder
 
 Day 5 Full Subtractor using Half Subtractor
 
+Day 6  4bit Ripple Carry Adder
+
+
+
 
 
