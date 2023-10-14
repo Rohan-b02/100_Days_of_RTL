@@ -13,6 +13,10 @@ Day 5 Full Subtractor using Half Subtractor
 
 Day 6  4bit Ripple Carry Adder
 
+Day 7 4-Bit Adder and Subtractor
+
+Day 8 Carry Look-Ahead Adder (CLA)
+
 
 
 
