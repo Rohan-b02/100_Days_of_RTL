@@ -19,6 +19,10 @@ Day 8 Carry Look-Ahead Adder (CLA)
 
 Day 9 Carry Select Adder (CSA)
 
+Day 10 MUltiplexer
+
+
+
 
 
 
